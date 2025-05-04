@@ -1,4 +1,3 @@
-# simcarvr-site
 # SimCarVR
 
 Bringing immersive automotive experiences to life — mobile, event-ready, and built for impact.
