@@ -9,14 +9,31 @@ body {
     align-items: center;
     height: 100vh;
 }
+
 .container {
     text-align: center;
 }
-a {
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
     color: #00adef;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 15px;
+    font-size: 2rem;
+    transition: color 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
-a:hover {
-    text-decoration: underline;
+
+.social-links a:hover {
+    color: #ffffff;
+}
+
+.social-links i {
+    vertical-align: middle;
+    line-height: 1;
 }
