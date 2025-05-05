@@ -29,8 +29,11 @@ body {
     justify-content: center;
 }
 
+.social-links a:focus,
 .social-links a:hover {
     color: #ffffff;
+    text-decoration: none;      /* Prevent _ artifact on hover */
+  outline: none;
 }
 
 .social-links i {
