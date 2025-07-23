@@ -17,3 +17,6 @@ SimCarVR is an independent tech and lifestyle project with a focus on mobility, 
 ### Follow for updates:
 - Instagram: [@simcarvr](https://instagram.com/simcarvr)
 - TikTok: [@simcarvr](https://tiktok.com/@simcarvr)
+- Facebook: [@simcarvr](https://www.facebook.com/SimCarVR)
+- Youtube: [@simcarvr](https://www.youtube.com/@SimCarVR)
+- X: [@simcarvr](https://x.com/SimCarVR)
